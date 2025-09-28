@@ -27,13 +27,9 @@ geno-kotlin/
 
 ## Run the program
 
-If a `main` entry-point is configured via the Gradle **application** plugin (e.g., `application { mainClass = "org.example.MainKt" }`), you can run:
-
 ```bash
 ./gradlew run
 ```
-
-If there is no `main` yet, skip this step and just run tests.
 
 ## Run the tests
 
